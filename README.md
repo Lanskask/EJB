@@ -1,0 +1,3 @@
+# EJBees
+
+Some EJBs

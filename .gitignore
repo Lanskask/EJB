@@ -1,0 +1,14 @@
+RemoteSystemTempFiles
+Servers
+ServletEJBEAR
+ServletEJBEAR.ear
+.metadata
+.recommenders
+*.swp
+
+**/target
+**/.idea
+**/.classpath
+**/.project
+**/.settings
+**/build
